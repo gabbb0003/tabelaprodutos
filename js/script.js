@@ -104,3 +104,5 @@ function AdicionarLinha(produto)
 
 let valorP = Number(linha.children[3].textContent);
 formatarMoeda(valorP)
+
+/*njndcjnsdjnjc*/
